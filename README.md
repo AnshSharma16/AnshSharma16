@@ -112,7 +112,7 @@ Explore my repositories, implementation decisions, and ongoing projects.
 ## 🤝 Connect
 
 - 💻 **GitHub:** [AnshSharma16](https://github.com/AnshSharma16)
-- 💼 **LinkedIn:** Add your LinkedIn profile URL here.
+- 💼 **LinkedIn:** [Ansh Sharma](https://www.linkedin.com/in/ansh-sharma-a9a689284/)
 
 ---
 
