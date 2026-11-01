@@ -1,119 +1,263 @@
-# Hi, I'm Ansh Sharma 👋
+<div align="center">
 
-### Python Backend Developer | API Engineering | Cloud & DevOps
+<img src="assets/ansh-command-center.svg" width="100%" alt="Ansh Sharma — Python Backend Engineer, API Engineering and Data Systems" />
 
-I build backend systems with Python, FastAPI, and PostgreSQL, focusing on clean architecture, asynchronous processing, API security, and reliable data persistence.
+<a href="https://github.com/AnshSharma16"><img src="https://img.shields.io/badge/GitHub-AnshSharma16-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+<a href="https://www.linkedin.com/in/ansh-sharma-a9a689284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<img src="https://komarev.com/ghpvc/?username=AnshSharma16&style=for-the-badge&color=0EA5E9&label=PROFILE+VIEWS" alt="Profile views" />
 
-This profile showcases my engineering projects, technical experiments, and continuous progress toward building maintainable, production-oriented software.
+<a href="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Designing+Python+backend+systems;Building+APIs+with+FastAPI;Working+with+PostgreSQL+%26+SQLAlchemy;Turning+ideas+into+tested+software">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&pause=1000&color=38BDF8&center=true&vCenter=true&width=720&lines=Designing+Python+backend+systems;Building+APIs+with+FastAPI;Working+with+PostgreSQL+%26+SQLAlchemy;Turning+ideas+into+tested+software" alt="Animated developer introduction" />
+</a>
 
-- 🔭 **Building:** Backend APIs, workflow automation, and asynchronous services.
-- 🌱 **Learning:** Cloud infrastructure, Linux, Docker, CI/CD, and observability.
-- 🧠 **Interested in:** Backend architecture, databases, distributed systems, and developer tooling.
-- 🎯 **Goal:** Build reliable software and grow as a Python Backend Engineer with strong infrastructure skills.
+**B.Tech Computer Science Graduate · Python Backend Development · AI Automation**
 
----
-
-## 🛠️ Technical Skills
-
-**Languages**
-  
-Python · SQL
-
-**Backend Engineering**
-
-FastAPI · REST APIs · Pydantic · SQLAlchemy 2.0 · Alembic · AsyncIO
-
-**Databases**
-
-PostgreSQL · SQLite · ORM · Database migrations · Indexing · Transactions
-
-**Architecture & Security**
-
-Service–Repository Pattern · Dependency Injection · Adapter Pattern · Factory Pattern · JWT Authentication · Authorization
-
-**Tools & Infrastructure**
-
-Git · GitHub · Docker · Docker Compose · GitHub Actions
-
-**Currently Developing**
-
-Cloud fundamentals · Linux · CI/CD pipelines · Deployment · Application monitoring
+</div>
 
 ---
 
-## 🚀 Featured Projects
+<table>
+<tr>
+<td width="58%" valign="top">
+
+## `01 / PROFILE`
+
+I build practical backend systems with an emphasis on **clear architecture, reliable data handling, and testable behavior**.
+
+- 🐍 **Core:** Python, FastAPI, REST API development
+- 🗄️ **Data:** PostgreSQL, SQLAlchemy, Pandas, Pydantic
+- ⚙️ **Engineering:** AsyncIO, transactions, validation, retries, logging
+- 🧪 **Quality:** Pytest, Ruff, unit and integration testing
+- 🎯 **Open to:** Entry-level Python Developer, Backend Developer, and AI Automation roles
+
+</td>
+<td width="42%" valign="top">
+
+## `02 / CURRENT FOCUS`
+
+```yaml
+role: Python Backend
+building:
+  - REST APIs
+  - ETL pipelines
+  - workflow systems
+learning:
+  - Docker
+  - CI/CD
+  - Linux
+principles:
+  - test first
+  - measure behavior
+  - design for failure
+```
+
+</td>
+</tr>
+</table>
+
+## `03 / TECHNOLOGY RADAR`
+
+<div align="center">
+
+**LANGUAGES & BACKEND**
+
+<img src="https://skillicons.dev/icons?i=python,fastapi" alt="Python and FastAPI" />
+
+**DATABASES & DATA**
+
+<img src="https://skillicons.dev/icons?i=postgres,sqlite" alt="PostgreSQL and SQLite" />
+
+**TOOLS & ENVIRONMENT**
+
+<img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode" alt="Git, GitHub, Docker, Linux, and VS Code" />
+
+</div>
+
+| Discipline | Tools / concepts |
+|---|---|
+| **Programming** | Python, SQL |
+| **Backend** | FastAPI, REST APIs, Pydantic, Uvicorn, AsyncIO |
+| **Persistence** | PostgreSQL, SQLite, SQLAlchemy 2.x, Alembic |
+| **Data & ML** | Pandas, NumPy, scikit-learn, TF-IDF, LinearSVC |
+| **Testing & quality** | Pytest, pytest-cov, Ruff, mocking, integration tests |
+| **Engineering practices** | Layered architecture, dependency injection, transactions, logging, pagination, retries |
+| **Tools** | Git, GitHub, Docker, Docker Compose, GitHub Actions |
+
+---
+
+## `04 / SELECTED BUILDS`
+
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" valign="top">
 
 ### ⚙️ AI Workflow Automation Platform
 
-A backend platform for defining and executing automated workflows through connected nodes and asynchronous processing.
+A backend platform for defining and executing workflows represented as connected nodes and edges.
 
-- Workflow validation and execution tracking.
-- FastAPI, PostgreSQL, SQLAlchemy 2.0, and Alembic.
-- Modular adapter integrations and workspace-level authorization.
-- Docker-based development and automated testing.
+- 🔀 Workflow graph validation and conditional branching
+- ⚡ Asynchronous execution and per-node tracking
+- 🔐 JWT authentication and workspace authorization
+- 🔁 Retry handling with exponential backoff and jitter
 
-🔗 [Explore my repositories](https://github.com/AnshSharma16?tab=repositories)
+**Stack**  
+`Python` `FastAPI` `PostgreSQL` `SQLAlchemy` `Alembic` `Docker`
 
-### 🔔 Notification Engine
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open AI Workflow Automation Platform repository" />](https://github.com/AnshSharma16/ai-workflow-platform)
 
-An asynchronous notification service designed around modular delivery adapters and resilient processing.
+</td>
+<td width="50%" valign="top">
 
-- FastAPI and PostgreSQL.
-- Asynchronous database operations using SQLAlchemy.
-- Delivery status tracking, timeouts, retries, and exponential backoff.
-- Separation of API, business logic, and persistence.
+### 🔔 Distributed Notification Engine
 
-🔗 [Explore my repositories](https://github.com/AnshSharma16?tab=repositories)
+An asynchronous notification service that accepts requests, dispatches channel deliveries, and tracks delivery status.
+
+- 📬 Email, SMS, push, and webhook adapter design
+- ⚡ Background processing and timeout handling
+- 🔁 Retry manager with exponential backoff and jitter
+- 🗄️ PostgreSQL persistence and dependency injection
+
+**Stack**  
+`Python` `FastAPI` `PostgreSQL` `Async SQLAlchemy` `Pydantic`
+
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open Notification Engine repository" />](https://github.com/AnshSharma16/notification-engine)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🧰 DataForge / ETL Pipeline
+
+A modular ETL pipeline for CSV ingestion, customer-data cleaning, schema validation, invalid-record reporting, and optional PostgreSQL loading.
+
+- 📥 CSV ingestion and cleaning with Pandas
+- ✅ Pydantic validation with row-level error details
+- 🗄️ SQLAlchemy loading with conflict-aware upserts
+- 📊 Data-quality metrics and structured logging
+- 🧪 Latest recorded run: **25 tests passed · 97% coverage**
+
+**Stack**  
+`Python` `Pandas` `Pydantic` `SQLAlchemy` `PostgreSQL` `Pytest`
+
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open DataForge repository" />](https://github.com/AnshSharma16/DataForge)
+
+</td>
+<td width="50%" valign="top">
 
 ### 📋 FastAPI Job Tracker API
 
-A REST API for managing job applications with authentication, filtering, and database persistence.
+A REST API for creating and retrieving job application records.
 
-- JWT-based authentication and resource-level authorization.
-- Pagination and filtering.
-- SQLAlchemy ORM and Alembic migrations.
-- Docker Compose-based development.
+- 🚀 Job creation and retrieval endpoints
+- ✅ Request validation with FastAPI / Pydantic
+- 🗄️ Persistent storage using SQLAlchemy and SQLite
+- 📖 Interactive API documentation through Swagger UI
 
-🔗 [View Job Tracker API](https://github.com/AnshSharma16/fastapi-jobtracker-api)
+**Stack**  
+`Python` `FastAPI` `SQLAlchemy` `SQLite` `REST`
 
-### 📊 InsightFlow — Customer Pain Point Detection
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open Job Tracker API repository" />](https://github.com/AnshSharma16/fastapi-jobtracker-api)
 
-An NLP project that analyzes customer reviews to identify sentiment and customer pain points.
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-- Text preprocessing and feature extraction using TF-IDF.
-- Text classification using LinearSVC.
-- Python, Pandas, and scikit-learn.
-- Streamlit interface for interacting with the model.
+### 🧠 InsightFlow / Sentiment Analysis
 
-🔗 [View InsightFlow](https://github.com/AnshSharma16/InsightFlow)
+An NLP project that classifies customer reviews and explores sentiment patterns in Amazon review data.
+
+- 🧹 Text preprocessing and normalization
+- 🔎 TF-IDF with unigram and bigram features
+- 🤖 Sentiment classification using LinearSVC
+- 📊 Streamlit interface for predictions and batch CSV processing
+
+**Stack**  
+`Python` `Pandas` `scikit-learn` `TF-IDF` `LinearSVC` `Streamlit`
+
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open InsightFlow repository" />](https://github.com/AnshSharma16/InsightFlow2)
+
+</td>
+<td width="50%" valign="top">
+
+### 🦠 COVID Survival Span
+
+An educational machine-learning application for exploring COVID-19 patient data and predicting survival outcomes from patient attributes.
+
+- 🧬 Patient-input prediction interface
+- 📊 Exploratory analysis of age, demographics, comorbidities, and outcomes
+- 📈 Visualizations using Matplotlib, Seaborn, and Plotly
+- 🖥️ Interactive Streamlit application
+
+**Stack**  
+`Python` `Pandas` `NumPy` `scikit-learn` `Streamlit` `Plotly`
+
+[<img src="https://img.shields.io/badge/OPEN_REPOSITORY-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="Open COVID Survival Span repository" />](https://github.com/AnshSharma16/CovidSurvivalSpan)
+
+</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-## 📚 Engineering Principles
+## `05 / GITHUB TELEMETRY`
 
-I aim to build software that is:
+<div align="center">
 
-- **Maintainable:** Clear separation of responsibilities and modular components.
-- **Reliable:** Explicit error handling, validation, and controlled retries.
-- **Testable:** Automated tests and predictable component behavior.
-- **Secure:** Authentication, authorization, and responsible secret management.
-- **Observable:** Useful logs and actionable debugging information.
+<a href="https://github.com/AnshSharma16">
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=AnshSharma16&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+</a>
+<a href="https://github.com/AnshSharma16">
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma16&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+</a>
 
----
+<br/>
 
-## 📈 GitHub
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=AnshSharma16&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
 
-Explore my repositories, implementation decisions, and ongoing projects.
+<br/>
 
-[![GitHub Profile](https://img.shields.io/badge/GitHub-AnshSharma16-181717?style=for-the-badge&logo=github)](https://github.com/AnshSharma16)
+<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma16&bg_color=111827&color=93C5FD&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph" />
 
----
+</div>
 
-## 🤝 Connect
-
-- 💻 **GitHub:** [AnshSharma16](https://github.com/AnshSharma16)
-- 💼 **LinkedIn:** [Ansh Sharma](https://www.linkedin.com/in/ansh-sharma-a9a689284/)
+<sub>Stats and graph widgets are generated by third-party services and may be delayed or unavailable. Repositories and commit history remain the source of truth.</sub>
 
 ---
 
-*Learning by building. Improving through engineering. Working toward reliable production systems.*
+<table>
+<tr>
+<td width="50%" valign="top">
+
+## `06 / ENGINEERING VALUES`
+
+- 🧱 **Structure:** separate API, business logic, and persistence.
+- 🛡️ **Reliability:** validate inputs and handle failures explicitly.
+- 🧪 **Evidence:** test success paths, edge cases, and failures.
+- 📈 **Measurement:** use metrics and benchmarks instead of assumptions.
+
+</td>
+<td width="50%" valign="top">
+
+## `07 / CONTACT`
+
+Open to conversations about Python backend development, APIs, data systems, and automation.
+
+<a href="https://github.com/AnshSharma16"><img src="https://img.shields.io/badge/GitHub-View%20Projects-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+
+<a href="https://www.linkedin.com/in/ansh-sharma-a9a689284/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+
+</td>
+</tr>
+</table>
+
+<div align="center">
+
+### `BUILD  →  TEST  →  MEASURE  →  IMPROVE`
+
+</div>

@@ -1,0 +1,63 @@
+<svg width="1200" height="390" viewBox="0 0 1200 390" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="34" y1="20" x2="1170" y2="380" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#07111F"/>
+      <stop offset="0.5" stop-color="#101C35"/>
+      <stop offset="1" stop-color="#092C3A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="130" y1="70" x2="840" y2="330" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#38BDF8"/>
+      <stop offset="0.55" stop-color="#818CF8"/>
+      <stop offset="1" stop-color="#2DD4BF"/>
+    </linearGradient>
+    <linearGradient id="panel" x1="830" y1="67" x2="1110" y2="326" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#172B49"/>
+      <stop offset="1" stop-color="#0B2433"/>
+    </linearGradient>
+    <pattern id="grid" width="34" height="34" patternUnits="userSpaceOnUse">
+      <path d="M34 0H0V34" stroke="#A5F3FC" stroke-opacity="0.08" stroke-width="1"/>
+    </pattern>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="9" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <rect width="1200" height="390" rx="26" fill="url(#bg)"/>
+  <rect width="1200" height="390" rx="26" fill="url(#grid)"/>
+  <circle cx="1020" cy="55" r="190" fill="#0EA5E9" fill-opacity="0.10"/>
+  <circle cx="1140" cy="340" r="220" fill="#14B8A6" fill-opacity="0.08"/>
+  <path d="M0 325C220 282 315 390 545 335C730 291 838 281 1200 335" stroke="url(#accent)" stroke-opacity="0.22" stroke-width="2"/>
+  <path d="M0 342C225 299 332 407 555 352C761 302 916 307 1200 353" stroke="url(#accent)" stroke-opacity="0.12" stroke-width="2"/>
+  <rect x="58" y="52" width="8" height="280" rx="4" fill="url(#accent)"/>
+  <text x="95" y="103" fill="#67E8F9" font-family="monospace" font-size="15" letter-spacing="4">PYTHON BACKEND / ENGINEERING PORTFOLIO</text>
+  <text x="91" y="181" fill="#F8FAFC" font-family="Arial, Helvetica, sans-serif" font-size="64" font-weight="800" letter-spacing="-2">ANSH SHARMA</text>
+  <text x="96" y="222" fill="#CBD5E1" font-family="Arial, Helvetica, sans-serif" font-size="23">Backend systems. Reliable data. Practical automation.</text>
+  <rect x="96" y="257" width="170" height="39" rx="19.5" fill="#0C4A6E" fill-opacity="0.66" stroke="#38BDF8" stroke-opacity="0.7"/>
+  <circle cx="116" cy="276" r="5" fill="#34D399" filter="url(#glow)"/>
+  <text x="132" y="282" fill="#BAE6FD" font-family="monospace" font-size="14" letter-spacing="1">FASTAPI / PYTHON</text>
+  <rect x="280" y="257" width="154" height="39" rx="19.5" fill="#172554" fill-opacity="0.72" stroke="#818CF8" stroke-opacity="0.7"/>
+  <text x="307" y="282" fill="#C7D2FE" font-family="monospace" font-size="14" letter-spacing="1">POSTGRESQL</text>
+  <rect x="448" y="257" width="158" height="39" rx="19.5" fill="#134E4A" fill-opacity="0.66" stroke="#2DD4BF" stroke-opacity="0.7"/>
+  <text x="475" y="282" fill="#99F6E4" font-family="monospace" font-size="14" letter-spacing="1">DATA / AUTOMATION</text>
+  <g transform="translate(785 53)">
+    <rect x="0" y="0" width="356" height="276" rx="17" fill="url(#panel)" stroke="#67E8F9" stroke-opacity="0.48"/>
+    <path d="M0 47H356" stroke="#67E8F9" stroke-opacity="0.24"/>
+    <circle cx="24" cy="24" r="5" fill="#FB7185"/>
+    <circle cx="43" cy="24" r="5" fill="#FBBF24"/>
+    <circle cx="62" cy="24" r="5" fill="#34D399"/>
+    <text x="91" y="29" fill="#94A3B8" font-family="monospace" font-size="12">engineering.log</text>
+    <text x="22" y="80" fill="#64748B" font-family="monospace" font-size="12">01</text>
+    <text x="52" y="80" fill="#7DD3FC" font-family="monospace" font-size="15">api = FastAPI()</text>
+    <text x="22" y="115" fill="#64748B" font-family="monospace" font-size="12">02</text>
+    <text x="52" y="115" fill="#C4B5FD" font-family="monospace" font-size="15">@app.get("/health")</text>
+    <text x="22" y="150" fill="#64748B" font-family="monospace" font-size="12">03</text>
+    <text x="52" y="150" fill="#A7F3D0" font-family="monospace" font-size="15">def health_check():</text>
+    <text x="22" y="185" fill="#64748B" font-family="monospace" font-size="12">04</text>
+    <text x="72" y="185" fill="#FDE68A" font-family="monospace" font-size="15">return {"status": "ok"}</text>
+    <path d="M22 218H330" stroke="#64748B" stroke-opacity="0.28" stroke-dasharray="4 6"/>
+    <circle cx="29" cy="245" r="5" fill="#34D399" filter="url(#glow)"/>
+    <text x="44" y="250" fill="#A7F3D0" font-family="monospace" font-size="13" letter-spacing="1">BUILD  •  TEST  •  IMPROVE</text>
+  </g>
+  <text x="97" y="355" fill="#64748B" font-family="monospace" font-size="12" letter-spacing="2">B.TECH COMPUTER SCIENCE  /  OPEN TO BACKEND OPPORTUNITIES</text>
+  <path d="M1157 0V390" stroke="#38BDF8" stroke-opacity="0.22" stroke-width="2"/>
+</svg>
