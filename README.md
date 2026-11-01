@@ -210,10 +210,10 @@ An educational machine-learning application for exploring COVID-19 patient data 
 <div align="center">
 
 <a href="https://github.com/AnshSharma16">
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=AnshSharma16&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
+<img height="175" src="https://github-stats-extended.vercel.app/api?username=AnshSharma16&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight" alt="GitHub statistics" />
 </a>
 <a href="https://github.com/AnshSharma16">
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnshSharma16&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
+<img height="175" src="https://github-stats-extended.vercel.app/api/top-langs/?username=AnshSharma16&layout=compact&hide_border=true&theme=tokyonight" alt="Top languages" />
 </a>
 
 <br/>
@@ -222,7 +222,6 @@ An educational machine-learning application for exploring COVID-19 patient data 
 
 <br/>
 
-<img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=AnshSharma16&bg_color=111827&color=93C5FD&line=22D3EE&point=F8FAFC&area=true&hide_border=true" alt="Contribution activity graph" />
 
 </div>
 
